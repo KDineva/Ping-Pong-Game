@@ -1,0 +1,42 @@
+E:\PINGPONG#1\trunk\bin\Debug\PingPongGame.exe.config
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.Form1.resources
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.Properties.Resources.resources
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.csproj.GenerateResource.Cache
+E:\PINGPONG#1\trunk\bin\Debug\PingPongGame.exe
+E:\PINGPONG#1\trunk\bin\Debug\PingPongGame.pdb
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.exe
+E:\PINGPONG#1\trunk\obj\Debug\PingPongGame.pdb
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\bin\Debug\PingPongGame.exe.config
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.exe
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.pdb
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\bin\Debug\PingPongGame.exe
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\bin\Debug\PingPongGame.pdb
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.Form1.resources
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.Properties.Resources.resources
+E:\Project Ping Pong\trunk\PingPongGameCode.git\trunk\PingPongGame\obj\Debug\PingPongGame.csproj.GenerateResource.Cache
+C:\Users\Svilen\Desktop\Homework\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.exe.config
+C:\Users\Svilen\Desktop\Homework\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.exe
+C:\Users\Svilen\Desktop\Homework\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.pdb
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.exe.config
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.exe
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.pdb
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.exe
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.pdb
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.Form1.resources
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.Properties.Resources.resources
+E:\GITHUB\BrickBreaker.git\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.csproj.GenerateResource.Cache
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.exe.config
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.exe
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.pdb
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.exe
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\bin\Debug\PingPongGame.pdb
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.Form1.resources
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.Properties.Resources.resources
+C:\Users\Bobo\Desktop\BrickBreaker\trunk\SOFTUNI PROJECT\PingPongGame\obj\Debug\PingPongGame.csproj.GenerateResource.Cache
+C:\Users\Bobo\Desktop\PingPongGame\PingPongGame\bin\Debug\PingPongGame.exe.config
+C:\Users\Bobo\Desktop\PingPongGame\PingPongGame\obj\Debug\PingPongGame.exe
+C:\Users\Bobo\Desktop\PingPongGame\PingPongGame\obj\Debug\PingPongGame.pdb
