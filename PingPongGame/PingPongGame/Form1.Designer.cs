@@ -36,6 +36,7 @@
             this.score_lbl = new System.Windows.Forms.Label();
             this.ball = new System.Windows.Forms.PictureBox();
             this.racket = new System.Windows.Forms.PictureBox();
+            this.bricks = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.playground.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ball)).BeginInit();
@@ -47,6 +48,7 @@
             this.playground.Controls.Add(this.ball);
             this.playground.Controls.Add(this.racket);
             this.playground.Controls.Add(this.mute);
+            this.playground.Controls.Add(this.bricks);
             this.playground.Controls.Add(this.points_lbl);
             this.playground.Controls.Add(this.score_lbl);
             this.playground.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -127,7 +129,20 @@
             this.playground.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ball)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.racket)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bricks)).EndInit();
             this.ResumeLayout(false);
+            //
+            // Brick
+            //
+            this.bricks.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.bricks.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.bricks.Location = new System.Drawing.Point(415, 558);
+            this.bricks.Name = "bricks";
+            this.bricks.Size = new System.Drawing.Size(200, 20);
+            this.bricks.TabIndex = 1;
+            this.bricks.TabStop = false;
+            //this.bricks.BringToFront = true;
+            //this.racket.Click += new System.EventHandler(this.pictureBox1_Click);
 
         }
 
@@ -135,6 +150,7 @@
 
         private System.Windows.Forms.Panel playground;
         private System.Windows.Forms.PictureBox racket;
+        private System.Windows.Forms.PictureBox bricks;
         private System.Windows.Forms.PictureBox ball;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label points_lbl;

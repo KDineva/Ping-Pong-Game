@@ -38,9 +38,14 @@ namespace PingPongGame
             this.TopMost = true;  //Bring the form to the front
             this.Bounds = Screen.PrimaryScreen.Bounds;  //Make it fullscreen
             racket.Top = playground.Bottom - (playground.Bottom / 10);  //set the position of the racket
+            bricks.Top = playground.Top + 100;
+            bricks.Left = playground.Left + 150;
+            //bricks.Top = playground.Top + 100;
+            //bricks.Left = playground.Left + 350;
             mute.Top = playground.Top - (playground.Top / 10);
             mute.Left = playground.Right - 100;
             _soundPlayer = new SoundPlayer("background.wav");
+
             
         }
 
@@ -51,7 +56,8 @@ namespace PingPongGame
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
+
+            //bricks = 
             racket.Left = Cursor.Position.X - (racket.Width / 2); //Set the center of the racket to the position of the cursor
             ball.Left += speed_left;
             ball.Top += speed_top;

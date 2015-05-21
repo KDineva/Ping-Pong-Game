@@ -43,3 +43,9 @@ C:\Users\Bobo\Desktop\PingPongGame\PingPongGame\obj\Debug\PingPongGame.pdb
 C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\bin\Debug\PingPongGame.exe.config
 C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.exe
 C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.pdb
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\bin\Debug\PingPongGame.exe
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\bin\Debug\PingPongGame.pdb
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.csprojResolveAssemblyReference.cache
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.Form1.resources
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.Properties.Resources.resources
+C:\Users\KDineva\Documents\GitHub\Ping-Pong-Game\trunk\PingPongGame\PingPongGame\obj\Debug\PingPongGame.csproj.GenerateResource.Cache
