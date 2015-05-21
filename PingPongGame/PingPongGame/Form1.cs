@@ -118,10 +118,10 @@ namespace PingPongGame
         }      
 
         
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click (object sender, EventArgs e)
         {
             
-            if (musicOn == false)
+            if ( musicOn == false )
             {
                 _soundPlayer.PlayLooping();
                 musicOn = true;
